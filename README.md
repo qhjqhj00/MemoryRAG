@@ -22,5 +22,5 @@
 MemoryRAG
 
 <p align="center">
-<img src="asset/framework.pdf">
+<img src="asset/framework.jpg">
 </p>
