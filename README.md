@@ -19,8 +19,16 @@
 </p>
 
 </h4>
-MemoryRAG
+HawkRAG
 
 <p align="center">
-<img src="asset/framework.jpg">
+<img src="asset/case.jpg">
 </p>
+
+</h4>
+HawkRAG Demo
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
+    <img src="./asset/demo.gif" style="width: 100%;">
+  </div>
+</div>
